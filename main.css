@@ -24,8 +24,8 @@ p {
 .quote {
   align-content: center;
   font-family: 'Cardo', serif;
-  font-size: 1.5em;
-  width: 600px;
+  font-size: 1em;
+  width: 450px;
   height: auto;
   margin: 0 auto;
   background-color: #efefef;
@@ -43,7 +43,7 @@ p {
 .button {
   font-family: 'Tangerine', serif;
   height: 50px;
-  width: 250px;
+  width: 500px;
   margin: 20px auto;
   color: rgba(0,0,0,1);
   background-color: rgba(160,200,160,.8);;
